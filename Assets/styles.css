@@ -1,7 +1,6 @@
 /* general styling ---------------- */
 body {
   background-image: url("./Images/background.jpg");
-
   background-color: rgb(119, 119, 119);
 }
 
@@ -22,11 +21,15 @@ h2 {
 .container-fluid {
   padding-left: 0px;
   padding-right: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 .nav-link {
   font-size: 18px;
+}
+
+.navbar {
+  padding-right: 10px;
 }
 
 .card {
@@ -89,5 +92,13 @@ section p {
 }
 
 article .card {
+  margin-left: 15px;
+}
+
+#git {
+  margin-left: 10px;
+}
+
+#linkedin {
   margin-left: 15px;
 }
