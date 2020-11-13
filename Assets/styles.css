@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-  font-size: 35px;
+  font-size: 45px;
   color: rgb(255, 255, 255);
 }
 
@@ -121,4 +121,13 @@ article .card {
   object-fit: cover;
   height: auto;
   padding-bottom: 30px;
+}
+
+.far {
+  margin-left: 15px;
+  color: rgb(155, 35, 35);
+}
+
+.resume {
+  color: rgb(58, 26, 100);
 }
