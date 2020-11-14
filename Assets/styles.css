@@ -6,7 +6,7 @@ body {
 
 h1 {
   font-size: 45px;
-  color: rgb(255, 255, 255);
+  color: rgb(221, 221, 221);
 }
 
 h2 {
@@ -116,11 +116,11 @@ article .card {
   margin-left: 15px;
 }
 
-#proj {
+.proj {
   width: 100%;
   object-fit: cover;
   height: auto;
-  padding-bottom: 30px;
+  padding-bottom: 35px;
 }
 
 .far {
@@ -129,5 +129,14 @@ article .card {
 }
 
 .resume {
-  color: rgb(58, 26, 100);
+  color: rgb(221, 221, 221);
+}
+
+.fas {
+  color: rgb(221, 221, 221);
+}
+
+.portfolio {
+  color: rgb(221, 221, 221);
+  display: inline-block;
 }
