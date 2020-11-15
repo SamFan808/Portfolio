@@ -1,2 +1,15 @@
 # Portfolio_hw_8
 Revised portfolio homework for Unit 8
+
+### Objective
+
+Create a an updated portfolio with live links and repository links to selected projects.
+Update contact information.
+
+Utilizes: HTML, CSS, Bootstrap CSS, Font-Awesome
+
+[Link to Portfolio](https://samfan808.github.io/Portfolio/index.html)
+
+Screenshot below:
+
+<img src="./Assets/Screen_1_hw_08.png">
