@@ -10,6 +10,10 @@ Utilizes: HTML, CSS, Bootstrap CSS, Font-Awesome
 
 [Link to Portfolio](https://samfan808.github.io/Portfolio/index.html)
 
-Screenshot below:
+Screenshots below:
 
-<img src="./Assets/Screen_1_hw_08.png">
+<img src="./Assets/Sam-Fan-About-Me_2.png">
+
+<img src="./Assets/Sam-Fan-Contact_2.png">
+
+<img src="./Assets/Sam-Fan-Portfolio_2.png">
