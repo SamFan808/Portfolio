@@ -12,8 +12,8 @@ Utilizes: HTML, CSS, Bootstrap CSS, Font-Awesome
 
 Screenshots below:
 
-<img src="./Assets/Sam-Fan-About-Me_2.png">
+<img src="./Assets/images/Sam-Fan-About-Me_2.png">
 
-<img src="./Assets/Sam-Fan-Contact_2.png">
+<img src="./Assets/images/Sam-Fan-Contact_2.png">
 
-<img src="./Assets/Sam-Fan-Portfolio_2.png">
+<img src="./Assets/images/Sam-Fan-Portfolio_2.png">
