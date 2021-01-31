@@ -1,4 +1,5 @@
 # Portfolio_hw_16
+
 Revised portfolio homework for Unit 16
 
 ### Objective
@@ -12,8 +13,8 @@ Utilizes: HTML, CSS, Bootstrap CSS, Font-Awesome
 
 Screenshots below:
 
-<img src="./Assets/images/Sam-Fan-About-Me_2.png">
+<img src="./Assets/images/Sam-Fan-About-Me_3.png">
 
-<img src="./Assets/images/Sam-Fan-Contact_2.png">
+<img src="./Assets/images/Sam-Fan-Contact_3.png">
 
-<img src="./Assets/images/Sam-Fan-Portfolio_2.png">
+<img src="./Assets/images/Sam-Fan-Portfolio_3.png">
